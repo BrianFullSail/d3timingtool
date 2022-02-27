@@ -1,0 +1,11 @@
+C:\Users\BcTorq\Desktop\repos\D3CoE\D3CoE\bin\Debug\D3CoE.exe.config
+C:\Users\BcTorq\Desktop\repos\D3CoE\D3CoE\bin\Debug\D3CoE.exe
+C:\Users\BcTorq\Desktop\repos\D3CoE\D3CoE\bin\Debug\D3CoE.pdb
+C:\Users\BcTorq\Desktop\repos\D3CoE\D3CoE\obj\Debug\D3CoE.csprojAssemblyReference.cache
+C:\Users\BcTorq\Desktop\repos\D3CoE\D3CoE\obj\Debug\D3CoE.Form1.resources
+C:\Users\BcTorq\Desktop\repos\D3CoE\D3CoE\obj\Debug\D3CoE.Properties.Resources.resources
+C:\Users\BcTorq\Desktop\repos\D3CoE\D3CoE\obj\Debug\D3CoE.csproj.GenerateResource.cache
+C:\Users\BcTorq\Desktop\repos\D3CoE\D3CoE\obj\Debug\D3CoE.csproj.CoreCompileInputs.cache
+C:\Users\BcTorq\Desktop\repos\D3CoE\D3CoE\obj\Debug\D3CoE.exe
+C:\Users\BcTorq\Desktop\repos\D3CoE\D3CoE\obj\Debug\D3CoE.pdb
+C:\Users\BcTorq\Desktop\repos\D3CoE\D3CoE\obj\Debug\D3CoE.FormOverlay.resources
